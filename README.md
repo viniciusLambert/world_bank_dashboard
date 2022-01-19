@@ -13,4 +13,8 @@ To run loccaly, access the file worldbank.py and uncomment the line
 #app.run(host='0.0.0.0', port=3001, debug=True)
 ```
 
-so run python worldbank.py
+so run 
+
+```
+python worldbank.py
+```
